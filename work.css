@@ -1,0 +1,9 @@
+.parent{
+    display: flex;
+    flex-wrap: wrap;
+    }
+    .parent .child{
+    width:25%;
+    border:1px solid red;
+    background-color:rgb(167, 167, 173);
+    }
